@@ -1,7 +1,7 @@
 # Operating System
 The operating system bridges the gap between the applications that run on a computer and its hardware. Microsoft Windows, MacOS, and Ubuntu (a particular distribution of Linux) are all common examples of operating systems.
 
-When writing high-level[^programming-language-level] programming languages (e.g., Ruby, JavaScript), you will, by design, rarely need to think about your underlying hardware and the implementation of the underlying operating system. Some more low-level languages (e.g., C) give you still communicate with the operating system, but can also give you more direct control over the hardware (e.g., directly manipulating information in memory).
+When writing high-level[^programming-language-level] programming languages (e.g., Ruby, JavaScript), you will (by design) rarely need to think about your underlying hardware and the implementation of the underlying operating system. More low-level[^programming-language-level] languages (e.g., C) still communicate with the operating system, but generally require more direct interaction with the hardware (e.g., manually allocating/de-allocating memory).
 
 Even if you are working exclusively with high-level languages, it's useful as a developer to be familiar with the basics of navigating, manipulating files, and running applications via the command line.
 
